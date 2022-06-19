@@ -1,3 +1,6 @@
+> Clone from https://github.com/google-developer-training/android-basics-kotlin-lemonade-app
+
+
 Project: Lemonade App - Starter Code
 ==================================
 
